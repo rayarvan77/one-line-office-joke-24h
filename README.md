@@ -35,4 +35,4 @@ python3 main.py
 - Output is exactly the line above: 116 characters, 116 bytes, one
   line, one sentence, inside the 1–200 gate.
 - Two consecutive runs produce byte-identical output.
-- `main.py` is 1,106 bytes, under the 4,096-byte per-file cap.
+- `main.py` is 1,250 bytes, under the 4,096-byte per-file cap.
